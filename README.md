@@ -13,14 +13,16 @@ This guide is very opinionated, however it is published on GitHub for a reason. 
 ## Season 1
 
 - [ ] 1 and 2
-- [ ] 3 to 5
+- [ ] 3, 3.5 (A Sudden Visitor OVA), and 3.75 (Distress OVA)
+- [ ] 4 and 5
 - [ ] 6 to 8
 - [ ] 9 and 10
 - [ ] 11 to 13
-- [ ] 14 to 16
+- [ ] 3.25 (Ilse's Notebook OVA), 14, 15, and 16
 - [ ] 17 to 19
 - [ ] 20 to 22
-- [ ] 23 to 25
+- [ ] 23 to 25 (watch post-credits)
+- [ ] 0.5A and 0.5B (A Choice with No Regrets OVAs)
 
 ## Season 2
 
@@ -29,10 +31,18 @@ This guide is very opinionated, however it is published on GitHub for a reason. 
 - [ ] 6 to 8
 - [ ] 9 and 10
 - [ ] 11 and 12
+- [ ] 16.5A and 16.5B (Wall Sina, Goodbye OVAs)
 
 ## Season 3
 
-WIP
+- [ ] 1 to 3
+- [ ] 4 to 6
+- [ ] 7 to 9
+- [ ] 10 to 12 (watch post-credits)
+- [ ] ??? (Lost in the cruel world OVA)
+- [ ] 13 to 15
+- [ ] 16 to 18
+- [ ] 19 (watch post-credits) to 22 (watch credits)
 
 ## Season 4 Part 1
 
